@@ -1,2 +1,2 @@
-# Python-dajngo-image-uploader
+# Python-django-image-uploader
 Django Application to upload images
